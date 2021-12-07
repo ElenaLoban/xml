@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <info>
-<name>Lena</name>
-<age>25</age>
-<pets>no</pets>
-<salary>$$$$$$</salary>
+   <name>Lena</name>
+   <age>25</age>
+   <pets>no</pets>
+   <salary>$$$$$$</salary>
 </info>
