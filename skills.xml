@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <skills>
-<skill1>git_bash</skill1>
-<skill2>git</skill2>
-<skill3>API_testing</skill3>
-<skill4>mobile_testing</skill4>
-<skill5>SQL</skill5>
-<skill6>Python</skill6>
-<skill7>TBD</skill7>
+   <skill1>git_bash</skill1>
+   <skill2>git</skill2>
+   <skill3>API_testing</skill3>
+   <skill4>mobile_testing</skill4>
+   <skill5>SQL</skill5>
+   <skill6>Python</skill6>
+   <skill7>TBD</skill7>
 </skills>
