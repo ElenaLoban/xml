@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <preferences>
-<film>Unadequate_people</film>
-<serial>Riverdale</serial>
-<food>sushi</food>
-<season>warm_autumn</season>
-<country>Sweden</country>
+   <film>Unadequate_people</film>
+   <serial>Riverdale</serial>
+   <food>sushi</food>
+   <season>warm_autumn</season>
+   <country>Sweden</country>
 </preferences>
