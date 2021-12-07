@@ -1,12 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <bug_report>
-<id>1</id>
-<summary>Button 'Learn more' on the page 'About us' doesn't work</summary>
-<steps_to_reproduce>1. Open www.1234.com, 2. Go to 'About us' page, 3.Scroll down to the button 'Learn more', 4. Click on the button 'Learm more'</steps_to_reproduce>
-<expected_result>After click on the button 'Learm more' addition information appears</expected_result>
-<actual_result>After click on the button 'Learm more' no information appears</actual_result>
-<environments>Chrome ver 96.0.4664.45</environments>
-<reproducibility>always</reproducibility>
-<workaround>no</workaround>
-<severity>minor</severity>
-<priority>medium</priority>
+  <id>1</id>
+  <summary>Button 'Learn more' on the page 'About us' doesn't work</summary>
+  <steps_to_reproduce>1. Open www.1234.com, 2. Go to 'About us' page, 3.Scroll down to the button 'Learn more', 4. Click on the button 'Learm more'</steps_to_reproduce>
+  <expected_result>After click on the button 'Learm more' addition information appears</expected_result>
+  <actual_result>After click on the button 'Learm more' no information appears</actual_result>
+  <environments>Chrome ver 96.0.4664.45</environments>
+  <reproducibility>always</reproducibility>
+  <workaround>no</workaround>
+  <severity>minor</severity>
+  <priority>medium</priority>
 </bug_report>
